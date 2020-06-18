@@ -19,6 +19,9 @@ h1{
     float: left;
 
 }
+.hero-area_img{
+wedth: 100%;
+}
 .posted{
     font-family: Arial, Helvetica, sans-serif;
 }
