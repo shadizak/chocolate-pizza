@@ -1,0 +1,98 @@
+
+#delicious{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#gogray{
+    color: gray
+}
+
+.block {
+    display: inline-block;
+}
+.vanessa-info{
+    float: left;
+
+}
+.posted{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#print-bar{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.print {
+    float: right;
+}
+
+#social-media {
+    float: right;
+}
+
+body {
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.tab {
+    text-indent: -2em;  
+}
+
+span {
+  color: white;
+}
+
+.share-recipe {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 25px;
+}
+
+.container-with-image{  
+    z-index: -1;
+    position: relative;
+}
+
+#fullrecipe{
+    position: absolute;
+    top: 40px;
+}
+
+.list-right{
+  float: right;
+  margin-left: 200px;
+  margin-top: -110px;
+}
+
+.list-left{
+    float: left;
+}
+
+label {
+    display: block;
+}
+
+.share-recipe{
+    float: right;
+    border: 1px solid rgb(189, 60, 0);
+    padding: 20px;
+    background-color: rgb(189, 60, 0);
+    color: white;
+}
+
+.copywrite{
+  text-align: center;
+}
+.hero-area{
+ width: 100%;   
+}
+.vanessa{
+    float: left;
+}
